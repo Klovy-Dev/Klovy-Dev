@@ -1,8 +1,7 @@
   <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=3B82F6&center=true&vCenter=true&width=600&
-  lines=Hey+there%2C+I'm+Klovy+%F0%9F%91%8B;Web+Developer+from+France+%F0%9F%87%AB%F0%9F%87%B7;Building+things+with+JS+%26+Next.js+%F0%9F%9A%80" alt="Typing
-  SVG" />
+  <h1>Hey there, I'm Klovy 👋</h1>
+  <h3>Web Developer from France 🇫🇷 · Building things with JS & Next.js 🚀</h3>
 
   <p>
     <a href="https://klovy-dev.com"><img
